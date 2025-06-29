@@ -1,0 +1,4 @@
+I’m currently working as an Associate Machine Learning Scientist at Wadhwani AI, where I build AI solutions for sectors like health and agriculture. My focus is on training and deploying NLP and computer vision models for real-world social impact in India. I am generally interested in LLMs, foundational vision models, and multi-modal architectures. 
+
+Earlier, I completed my MS (by Research) in Computer Science at IIT Delhi, where I focused on robust text recognition in challenging scenarios. I still find myself reading OCR papers on weekends — guess my Master’s work did a number on me. 
+I’m passionate about building scalable and accessible AI tools that serve broad and diverse populations.
