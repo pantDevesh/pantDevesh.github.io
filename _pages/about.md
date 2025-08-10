@@ -7,7 +7,10 @@ subtitle: <a href='https://www.wadhwaniai.org/'>Associate ML Scientist-II</a>
 profile:
   align: right
   image: profile-pic.jpeg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # set to false for rounded rectangle, true for circle
+  image_shape: rounded # options: 
+  # Bootstrap shapes: rounded, rounded-circle, rounded-0, rounded-1, rounded-2, rounded-3, rounded-4, rounded-5
+  # Custom shapes: img-hexagon, img-diamond, img-triangle, img-octagon, img-star, img-heart, img-rounded-square, img-pill
   # more_info: >
   #   <p>Associate ML Scientist-2</p>
   #   <p>Wadhwani AI</p>
@@ -28,9 +31,9 @@ latest_posts:
 ---
 
 
-I’m currently working as an Associate Machine Learning Scientist at Wadhwani AI, where I work on bulding AI solutions for sectors like health and agriculture. My focus is on training and deploying NLP and computer vision models for real-world social impact in India. <br>
-Earlier, I completed my MS (by Research) in Computer Science at IIT Delhi, with a thesis focused on robust text recognition in challenging scenarios, under the guidance of [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/) I still find myself reading OCR papers on weekends — guess my Master’s work did a number on me 😃. <br> 
-I'm broadly interested in large language models, foundational vision models, and multi-modal architectures. I'm passionate about creating scalable, accessible AI tools that can serve diverse and widespread communities.
+I’m currently working as an Associate Machine Learning Scientist at Wadhwani AI, where I develop AI solutions for healthcare and agriculture sectors. My work primarily involves training and deploying NLP and computer vision models. <br>
+Earlier, I completed my MS (by Research) in Computer Science at IIT Delhi, with a thesis focused on robust text recognition in challenging scenarios, under the guidance of [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/). <br> 
+My broad interest lies in foundational vision models and multi-modal architectures. I'm passionate about creating scalable, accessible AI tools that can serve diverse and widespread communities.
 
 
 
