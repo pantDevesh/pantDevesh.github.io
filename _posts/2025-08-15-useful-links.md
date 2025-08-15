@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Curated List of Useful Blogs and Videos
-date: 2025-08-15 20:20:16
+date: 2025-08-14 20:20:16
 description: useful-links, growth, improvment
-tags: formatting links
 categories: notes
 featured: true
 ---
