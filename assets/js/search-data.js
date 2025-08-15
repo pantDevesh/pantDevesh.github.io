@@ -23,7 +23,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-natual-language-to-lora-weights",
+        },{id: "post-curated-list-of-useful-blogs-and-videos",
+        
+          title: "Curated List of Useful Blogs and Videos",
+        
+        description: "useful-links, growth, improvment",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/useful-links/";
+          
+        },
+      },{id: "post-natual-language-to-lora-weights",
         
           title: "Natual Language to LoRA Weights",
         
