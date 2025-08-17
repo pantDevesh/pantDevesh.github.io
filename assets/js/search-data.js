@@ -34,9 +34,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/useful-links/";
           
         },
-      },{id: "post-natual-language-to-lora-weights",
+      },{id: "post-natural-language-to-lora-weights",
         
-          title: "Natual Language to LoRA Weights",
+          title: "Natural Language to LoRA Weights",
         
         description: "llm, research paper",
         section: "Posts",
