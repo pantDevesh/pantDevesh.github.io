@@ -5,6 +5,8 @@ date: 2025-08-14 20:20:16
 description: useful-links, growth, improvment
 categories: notes
 featured: true
+show_on_notes: true
+thumbnail: assets/img/notes/curated_link_preview.jpg 
 ---
 
 ### On Writing
