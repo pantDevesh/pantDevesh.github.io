@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OpenAI and Google's models win gold at ICPC'25
+title: OpenAI and Google win gold at ICPC'25
 date: 2025-09-20 10:00:00
 categories: random
 featured: true
@@ -24,7 +24,7 @@ But one thing I instantly remembered after reading this news was a Codeforces bl
 
 Of course, computers beating humans wasn't new, Deep Blue had already defeated Kasparov decades ago. But chess has fixed rules, and a supercomputer can brute-force millions of moves. Competitive programming, on the other hand, often demands creativity that goes beyond algorithms and syntax. I remember telling my roommates how absurd it seemed that computers could ever solve such problems, and we laughed about it back then 😅.  
 
-Fast forward to 18 September 2025: Google and OpenAI announced that their reasoning models had won gold at the ICPC World Finals.
+Fast forward to 18 September 2025: Google DeepMind and OpenAI announced that their reasoning models had won gold at the ICPC World Finals.
 It's astonishing to see how far we've come in just a few years. Sure, LLMs still fail (a lot), and we love to complain—but the pace of progress is undeniable. Let's see what's next.  
 
 ---
@@ -33,10 +33,10 @@ It's astonishing to see how far we've come in just a few years. Sure, LLMs still
 
 ### Related blogs
 
-- https://codeforces.com/blog/entry/59746  
-- https://blog.google/technology/google-deepmind/gemini-gold-icpc/  
-- https://x.com/MostafaRohani/status/1968360976379703569  
-- https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/  
-- https://x.com/OpenAI/status/1954969035713687975  
-- https://deepmind.google/discover/blog/competitive-programming-with-alphacode/
+- <https://codeforces.com/blog/entry/59746> 
+-<https://blog.google/technology/google-deepmind/gemini-gold-icpc/>  
+- <https://x.com/MostafaRohani/status/1968360976379703569>  
+- <https://deepmind.google/discover/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/>
+- <https://x.com/OpenAI/status/1954969035713687975>
+- <https://deepmind.google/discover/blog/competitive-programming-with-alphacode/>
 
