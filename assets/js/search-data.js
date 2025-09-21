@@ -479,8 +479,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "random-openai-and-google-39-s-models-win-gold-at-icpc-39-25",
-          title: 'OpenAI and Google&amp;#39;s models win gold at ICPC&amp;#39;25',
+            },},{id: "random-openai-and-google-win-gold-at-icpc-39-25",
+          title: 'OpenAI and Google win gold at ICPC&amp;#39;25',
           description: "",
           section: "Random",handler: () => {
               window.location.href = "/random/2025/09/20/2025-09-20_icpc_ai_models/";
