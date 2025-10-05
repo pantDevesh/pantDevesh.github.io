@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-random",
-          title: "random",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/random/";
-          },
-        },{id: "nav-notes",
+  },{id: "nav-notes",
           title: "notes",
           description: "",
           section: "Navigation",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-random",
+          title: "random",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/random/";
           },
         },{id: "post-curated-list-of-useful-blogs-and-videos",
         
@@ -484,6 +484,11 @@ ninja.data = [{
           description: "",
           section: "Random",handler: () => {
               window.location.href = "/random/2025/09/20/2025-09-20_icpc_ai_models/";
+            },},{id: "random-my-first-50km-bicycle-ride",
+          title: 'My first 50km bicycle ride',
+          description: "",
+          section: "Random",handler: () => {
+              window.location.href = "/random/2025/09/20/2025-10-05_cycling_50km/";
             },},{
         id: 'social-email',
         title: 'email',
