@@ -3,7 +3,7 @@ layout: default
 permalink: /random/
 title: random
 nav: true
-nav_order: 1
+nav_order: 4
 pagination:
   enabled: false
   collection: random
