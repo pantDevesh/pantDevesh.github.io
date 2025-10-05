@@ -488,7 +488,7 @@ ninja.data = [{
           title: 'My first 50km bicycle ride',
           description: "",
           section: "Random",handler: () => {
-              window.location.href = "/random/2025/09/20/2025-10-05_cycling_50km/";
+              window.location.href = "/random/2025/10/04/2025-10-05_cycling_50km/";
             },},{
         id: 'social-email',
         title: 'email',
