@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.wadhwaniai.org/'>Associate ML Scientist-II</a>
 
 profile:
   align: right
@@ -31,9 +30,9 @@ latest_posts:
 ---
 
 
-I’m currently working as an Associate Machine Learning Scientist at Wadhwani AI, where I develop AI solutions for healthcare and agriculture sectors. My work primarily involves training and deploying NLP and computer vision models. <br>
-Earlier, I completed my MS (by Research) in Computer Science at IIT Delhi, with a thesis focused on robust text recognition in challenging scenarios, under the guidance of [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/). <br> 
-My broad interest lies in foundational vision models and multi-modal architectures. I'm passionate about creating scalable, accessible AI tools that can serve diverse and widespread communities.
+I recently joined Oracle as a Senior Applied Scientist, where I work on Clinical AI solutions. Prior to this, I spent nearly 2.5 years at Wadhwani AI, building AI systems for healthcare and agriculture. My work spanned NLP, Computer Vision and Document AI. <br>
+Earlier, I completed my MS (by Research) in Computer Science at IIT Delhi, with a thesis focused on robust text recognition in challenging scenarios, with [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/). <br> 
+My broader interests lie in foundational vision models and multimodal architectures. I'm driven to build  scalable and accessible AI tools that can serve diverse and widespread communities.
 
 
 
