@@ -33,6 +33,5 @@ latest_posts:
 I'm a Senior Applied Scientist at Oracle, where I build healthcare AI agents for intelligent hospital automation. Previously, I spent ~2.5 years at Wadhwani AI, developing AI systems for public health and agriculture. My work spanned NLP, Computer Vision, and Document AI. <br>
 I completed my MS (by Research) at IIT Delhi, with a thesis focused on robust text recognition in the wild, with [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/) and [Prof. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/). <br> 
 My interests lie in foundational vision models and multimodal architectures. I’m driven to build scalable, accessible AI tools that serve diverse populations and create measurable real-world impact.
-
-
-
+<br>
+Outside work, I stay active with running and strength training, and unwind by playing the keyboard and experimenting in the kitchen.
