@@ -492,6 +492,11 @@ ninja.data = [{
           description: "",
           section: "Random",handler: () => {
               window.location.href = "/random/2025/10/04/2025-10-05_cycling_50km/";
+            },},{id: "random-my-first-half-marathon",
+          title: 'My first half marathon',
+          description: "",
+          section: "Random",handler: () => {
+              window.location.href = "/random/2026/04/18/2026-18-04_running_half_marathon/";
             },},{
         id: 'social-email',
         title: 'email',
