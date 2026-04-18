@@ -7,13 +7,10 @@ featured: true
 thumbnail: assets/img/half_marathon/main.jpg
 ---
 
-<figure class="image" style="max-width: 100%; margin: 30px auto;">
-  <img src="{{ '/assets/half_marathon/half_marathon_photo.jpeg' | relative_url }}" 
+<figure class="image" style="float: left; width: 260px; margin: 0 20px 10px 0;">
+  <img src="{{ '/assets/img/half_marathon_photo.jpg' | relative_url }}" 
        alt="Half Marathon Finish" 
-       style="width: 100%; height: auto; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px;">
-    Crossing the finish line.
-  </figcaption>
+       style="width: 100%; height: 335px; object-fit: cover; display: block; border-radius: 8px;">
 </figure>
 
 Today, I completed my first half marathon.
@@ -22,13 +19,15 @@ The first 16 km felt surprisingly smooth and controlled. I settled into a comfor
 
 The last 2 km were especially brutal. Every step felt heavy, more of a mental battle than a physical one.
 
-Bangalore weather wasn't perfect, but the cool morning breeze definitely helped in the early 10km, sun came after that. Overall, I am happy with the pace I managed to hold through most of it.
+Bangalore weather wasn't perfect, but the cool morning breeze definitely helped in the early 10 km. The sun came after that, making the final stretch tougher. Overall, I am happy with the pace I managed to hold through most of it.
 
 Plenty to improve from here, hopefully bringing it down to 5:40/km next.
 
-<figure class="image" style="max-width: 100%; margin: 30px auto;">
-  <video controls style="width: 100%; border-radius: 8px;">
-    <source src="{{ '/assets/half_marathon/half_marathon_video.mov' | relative_url }}" type="video/mp4">
+<div style="clear: both;"></div>
+
+<figure class="image" style="max-width: 600px; margin: 30px auto;">
+  <video controls playsinline preload="metadata" style="width: 100%; border-radius: 8px;">
+    <source src="{{ '/assets/video/half_marathon_video.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </figure>
